@@ -21,7 +21,7 @@ all: $(target)
         sleep \
         sleep-go \
         timers
-go_executables = chaincode_Lite
+go_executables = DNS_test
 
 exec_target = \
         $(go_executables)
