@@ -1,0 +1,1 @@
+rm *.sig *.token *.sgx
