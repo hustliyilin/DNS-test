@@ -16,7 +16,7 @@ func main(){
         var ctx context.Context
         var network,address string
         network = "tcp"
-        address = "peer:7052"
+        address = "www.github.com:443"
         ctx, cancel := context.WithTimeout(context.Background(), time.Second)
         defer cancel()
         fmt.Print("ctx = ", ctx)
