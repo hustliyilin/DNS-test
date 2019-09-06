@@ -1,1 +1,1 @@
-# chaincode_Lite
+# DNS_test
