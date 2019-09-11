@@ -21,7 +21,7 @@ all: $(target)
         sleep \
         sleep-go \
         timers
-go_executables = DNS_test
+go_executables = DNS-test
 
 exec_target = \
         $(go_executables)
