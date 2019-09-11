@@ -1,1 +1,1 @@
-# DNS_test
+# DNS-test
