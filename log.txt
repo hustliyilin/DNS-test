@@ -1,0 +1,7 @@
+root@0b9868429d34:~/gopath/GrapheneSGX-Golang-Support-and-Enhancement/LibOS/shim/test/src/DNS-test# SGX=1 ./pal_loader DNS-test.manifest.sgx 
+[urts 55672] sgx_main.c:799:load_enclave exec_uri: "file:DNS-test"
+[urts 55672] sgx_main.c:234:initialize_enclave loading "/root/gopath/GrapheneSGX-Golang-Support-and-Enhancement/Pal/src/../../Runtime/libpal-Linux-SGX.so"
+ctx = context.Background 
+network = tcp 
+address = 127.0.0.1:22 
+root@0b9868429d34:~/gopath/GrapheneSGX-Golang-Support-and-Enhancement/LibOS/shim/test/src/DNS-test#
