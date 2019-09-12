@@ -28,6 +28,8 @@ func main(){
 
         _,err := dialContext(ctx, network, address)
         if(err != nil)  {
+                fmt.Print("err = ", err)
+                fmt.Println(" ")
                 fmt.Println("dialContext error!\n")
         }
   
